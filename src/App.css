@@ -1,0 +1,13 @@
+.content {
+  width: 144%;
+}
+.slider {
+  min-height: 500px;
+  width: 18%;
+}
+
+@media (max-width: 768px) {
+  .slider {
+    width: 28%;
+  }
+}
